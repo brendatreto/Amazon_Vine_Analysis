@@ -16,12 +16,14 @@ We worked with reviews for books.
 - How many Vine reviews and non-Vine reviews were there?
 
 *Fig 1. Vine reviews vs non-Vine reviews*
+
 ![paid_unpaid_vine](https://user-images.githubusercontent.com/22451540/165871377-e548dfe6-7788-44d4-b1bb-36919b22ed36.PNG)
 
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 *Fig 2. 5 stars vine vs 5 stars non-Vine*
+
 ![five_star_comparison](https://user-images.githubusercontent.com/22451540/165871458-1d023480-3d81-4748-9a6f-7442622441cc.PNG)
 
 
@@ -29,6 +31,7 @@ We worked with reviews for books.
 **Note:** Because there were no 5 stars paid reviews the percentage was not able to be estimated
 
 *Fig 3. Percentage of 5 star Vine reviews vs 5 stars non-Vine reviews*
+
 ![stars_percentage](https://user-images.githubusercontent.com/22451540/165871583-9e168fe5-31c8-4809-8fdc-504a80be99a7.PNG)
 
 
